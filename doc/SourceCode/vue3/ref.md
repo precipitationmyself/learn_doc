@@ -1,0 +1,4 @@
+---
+prev: ../vueuse/eventbus
+---
+# ref

@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "learn_doc"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  text: "学习笔记"
+  tagline: "记录学习过程"
   actions:
     - theme: brand
       text: Markdown Examples
